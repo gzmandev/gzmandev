@@ -59,7 +59,7 @@
 ## 📫 Contacto
 
 <p>
-  <a href="www.linkedin.com/in/adriel-guzman-a038ba44a">
+  <a href="https:www.linkedin.com/in/adriel-guzman-a038ba44a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gzman.dev@gmail.com">
